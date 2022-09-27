@@ -36,3 +36,18 @@ and found systems.
 
 + ```Thermal sensors``` and ```chips``` for sensing temperature and creating unique ID for the ease of
 trackin
+
+## To run the project: 
+## Prerequisites
+Before you get started, you're going to need a few things:
+
+```Your favorite IDE or text editor```
+```Python 3.7 - Python 3.10```
+```PIP```
+1. Install streamlit - ```pip install streamlit```
+2.Test that the installation worked: ```streamlit hello``` 
+3. Streamlit's Hello app should appear in a new tab in your web browser!
+4. Run file in terminal -  ```streamlit run myfile.py``` or ```python -m streamlit run myfile.py```
+
+``` Thanks you. Happy Coding :) ```
+
