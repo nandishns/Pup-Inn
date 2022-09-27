@@ -1,12 +1,13 @@
 ## Pup-Inn
 
 ## Problem statement:
- ``` We often see many animals (stray animals) are found injured and without shelter.
+ We often see many animals (stray animals) are found injured and without shelter.
 It is quite difficult for NGOs like "Love For Forgotten" to find and trace all such pitiful animals
-and treat them. A common system for all volunteers, doctors and animal welfare workers to
+and treat them. 
+A common system for all volunteers, doctors and animal welfare workers to
 easily track in a more efficient way for such animals and communication with each other
 through technology is needed. An easy adopting system for stray dogs to have a better home
-and tracking system to track stray dogs is needed ```
+and tracking system to track stray dogs is needed 
 ## Solution:
 Our approach has a multiway benefit for animals:
 ++ ** "Pup Home'' ** - is a small temporary sort of animal shelter that can be placed in places with no
