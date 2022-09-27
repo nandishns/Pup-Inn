@@ -33,5 +33,6 @@ comes up to adopt it. The collar will also have reflectors to prevent it from ro
 + ```Discord server for easy communication```
 + ```Automated discord bot using (discord.py) for alerts and also an adoption system. Also for lost
 and found systems.```
+
 + ```Thermal sensors and chips for sensing temperature and creating unique ID for the ease of
 trackin```
